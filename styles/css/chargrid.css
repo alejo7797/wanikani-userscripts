@@ -160,7 +160,7 @@
 
 .wk_namespace ul.single-character-grid li.character-item ul>li:nth-child(2),
 .wk_namespace ul.multi-character-grid li.character-item ul>li:nth-child(2) {
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Noto Sans", "Noto Sans JP", "Noto Sans SC", sans-serif;
 }
 
 .wk_namespace ul.single-character-grid li.character-item span.character,
